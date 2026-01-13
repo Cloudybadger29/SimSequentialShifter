@@ -3,7 +3,7 @@ Sim racing is expensive... too expensive...
 
 So why not make a $100+ item myself! This is my sequential shifter. It doesn't have any extra buttons and only shifts up and down, but that's all you need, no?
 
-<img src=assets/Final.png alt="PLACEHOLDER" width="800"/>
+<img src=assets/Final.png alt="PLACEHOLDER" width="400"/>
 
 
 ## Features:
@@ -13,7 +13,7 @@ So why not make a $100+ item myself! This is my sequential shifter. It doesn't h
 
 ## CAD
 Held together with m8 and m6 screws, m8 studs, and a m10 stud for the knob. This was my first time doing a pretty CAD-heavy task, so I'm happy with the result
-<img src=assets/CAD.png alt="PLACEHOLDER" width="800"/>
+<img src=assets/CAD.png alt="PLACEHOLDER" width="400"/>
 
 
 ## Wiring
