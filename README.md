@@ -17,7 +17,7 @@ Held together with m8 and m6 screws, m8 studs, and a m10 stud for the knob. This
 
 
 ## Wiring
-No PCB for this project, as it would just be more work to use. Simple wiring from Arduino to the microcontroller is used instead.
+No PCB for this project, as it would just be more work to use. Simple wiring from Arduino to the microcontroller is used instead. Make sure that the red wire is wired to the same wire slot as the button number in simhub.
 
 <img src=Wiring/wire.png alt="PLACEHOLDER" width="400"/>
 
