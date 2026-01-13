@@ -47,3 +47,5 @@ https://youtu.be/XaHf5xkZWxY?si=bYvEh1Mwqx5HG9Xs&t=215
 <img width="628" height="385" alt="image" src="https://github.com/user-attachments/assets/039e8cc2-ea5f-452f-831e-e09a09252ddf" />
 
 Links are included in the Excel sheet: https://1drv.ms/x/c/1d7c297793eee067/IQD1Y_XzaX3VSoLkiemuYFM1ARW1dW0mvp2L7T5ecIngENg?e=hQ6rAf
+
+Also, please note that the price is an estimate, as prices may not always remain the same. Id say it should be around 60 dollars at the most. 
