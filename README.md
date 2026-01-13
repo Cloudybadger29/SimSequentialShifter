@@ -3,7 +3,7 @@ Sim racing is expensive... too expensive...
 
 So why not make a $100+ item myself! This is my sequential shifter. It doesn't have any extra buttons and only shifts up and down, but that's all you need, no?
 
-<img src=assets/final.png alt="PLACEHOLDER" width="800"/>
+<img src=assets/Final.png alt="PLACEHOLDER" width="800"/>
 
 
 ## Features:
